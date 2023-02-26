@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lalanikw
-- 👀 I’m interested in learning HTML, CSS and JavaScript
+- 👀 I’m interested in learning and practicing HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate in coding help
 - 📫 How to reach me lalanikw@gmail.com
 
